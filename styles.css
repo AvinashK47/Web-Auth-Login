@@ -1,12 +1,18 @@
 body{
     background-color: teal;
     font-family: 'JetBrains Mono', monospace ;
-    padding: auto;
+    padding: 25px ;
 }
-h1,p{
+p{
     font-size: medium;
     color: white;
-    font-weight: 500;
+    font-weight: bold;
+    font-family: 'JetBrains Mono', monospace;
+    text-align: center;
+}
+h1{
+    color: white;
+    font-weight: bold;
     font-family: 'JetBrains Mono', monospace;
     text-align: center;
 }
