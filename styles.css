@@ -1,7 +1,8 @@
 body{
     background-color: teal;
-    font-family: 'JetBrains Mono' , monospace ;
+    font-family: 'JetBrains Mono', monospace ;
 }
 h1,p{
+    font-family: 'JetBrains Mono', monospace;
     text-align: center;
 }
