@@ -3,6 +3,7 @@ body{
     font-family: 'JetBrains Mono', monospace ;
 }
 h1,p{
+    color: white;
     font-weight: 500;
     font-family: 'JetBrains Mono', monospace;
     text-align: center;
