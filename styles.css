@@ -1,6 +1,7 @@
 body{
     background-color: teal;
     font-family: 'JetBrains Mono', monospace ;
+    padding: auto;
 }
 h1,p{
     color: white;
