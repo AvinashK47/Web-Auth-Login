@@ -2,7 +2,11 @@ body{
     background-color: teal;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+h1,p{
+    text-align: center;
+}
 #para {
+    text-align: center;
     font-family: 'Caveat', cursive;
     font-family: 'Pacifico', cursive;
     font-family: 'Protest Revolution', sans-serif;
