@@ -2,7 +2,6 @@ const fullText = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaer
 let displayedText = "";
 
 function typeText() {
-    // Choose a suitable chunk size based on desired typing speed
     const chunkSize = 1;
 
     if (fullText.length > displayedText.length) {
